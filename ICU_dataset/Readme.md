@@ -20,7 +20,7 @@ To get start with the data in your own notebook, follow the steps below.
 
  
 
-*Step 1:* 
+***Step 1:*** 
 
 Configure your AWS with JupyterHub: 
 
@@ -32,35 +32,35 @@ In your terminal go to the directory where you want to work.
 
 Write down the following codes:  
 
-aws configure 
+	aws configure 
 
 It will ask for your Access Key ID and Secret Access Key. Give those from the access file that you got previously. 
 
 Then it will ask for the Default region name which you should give as- “us-east-1" and Default output format as- “json”. 
 
-*Step 2:* 
+***Step 2:***
 
 Load your data tables or the database in your JupyterHub: 
 
 The .parquet files are located in your JupyterHub. Once you log in to the JupyterHub, you should open a termina. Write this commands. 
 
-cd .. 
+	cd .. 
 
-cd .. 
+	cd .. 
 
 Now you are in the root directory. Write- 
 
-cd icu 
+	cd icu 
 
 In this directory, there are parquet files and the database file. 
 
 Write- 
 
-ls 
+	ls 
 
 And you will see all the datatables in .parquet file format. 
 
-*Step 3:* 
+***Step 3:***
 
 Reading the .parquet files and getting your datatables: 
 
