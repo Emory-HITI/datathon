@@ -69,7 +69,6 @@ From your home directory, you can open a Python notebook and start loading necce
 Using pandas, you can read the parquet files. For example use the following code to get admissions table. 
 
 	import pandas as pd 
-
-admissions=pd.read_parquet('../../icu/admissions.parquet', engine='pyarrow') 
+ 	admissions=pd.read_parquet('../../icu/admissions.parquet', engine='pyarrow') 
 
 Follow the provided Python Notebook in this directory for more details. 
