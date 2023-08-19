@@ -17,9 +17,11 @@ Please find your usernames below:
 | Thomas Yu Chow Tam | Tam |
 | Pilhwa Lee | PLee |
 | Alex Belov | Belov |
-| MUKAMA MARTIN | Martin |
+| Mukama Martin | Martin |
 | Charles Jones | Jones |
 | Marilyn G. Foreman | Foreman |
 | Vedant Joshi | Joshi |
 | Diana Rodriguez | Rodriguez |
-| Francis Tuluri | Tuluri |
+| Rolanda Julius | Julius |
+| Dr Michelle Skelton | Skelton |
+| Rakesh Shiradkar | Shiradkar |
