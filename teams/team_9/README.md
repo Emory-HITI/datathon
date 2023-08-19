@@ -14,10 +14,9 @@ Please find your usernames below:
 | **Name** | **Username** |
 | - | - |
 | Sumir Patel | Patel |
-| Zaphanlene Kaffey | Kaffey |
 | Rashi Verma | Verma |
 | Mustapha Usman Baba | Baba |
 | Rijul Saxena | Saxena |
 | Katie McClung | McClung |
-| David Restrepo | Restrepo |
 | Shahriar Faghani | Faghani |
+| Elham Amini | Amini |
