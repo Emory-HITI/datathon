@@ -15,10 +15,8 @@ Please find your usernames below:
 | - | - |
 | Carl Yang | Yang |
 | Anne-Elisabeth Courrier | Courrier |
-| ran xiao | Xiao |
 | Augustine Ofoegbu | Ofoegbu |
 | Eptehal Nashnoush | Nashnoush |
-| Rolanda Julius | Julius |
 | Chad Robichaux | Robichaux |
 | João Matos | Matos |
 | Sharon Sonenblum | Sonenblum |
