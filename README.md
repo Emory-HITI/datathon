@@ -41,3 +41,7 @@ python -c "import torch; print(torch.cuda.is_available();"
 | 11 | Various Datasets #2 | jhub10.datathon.org | 325 | Are new forms of dataset good enough for AI model development ? What are their impacts on bias? |
 | 12 | ICU #3 | jhub11.datathon.org | 355 | Evaluate biases in the Emory ICU dataset and disparities proxies. |
 | 13 | ChatGPT | jhub12.datathon.org | 130 | Red Teaming to test the performance of large language models (ChatGPT for health). |
+
+<br/>**Room Assignment Maps:**<br/>
+![WhatsApp Image 2023-08-19 at 9 12 29 AM-2](https://github.com/Emory-HITI/datathon/assets/126121645/4e610ba6-49cc-474b-bf64-e7543b72bed5)
+![WhatsApp Image 2023-08-19 at 9 12 29 AM](https://github.com/Emory-HITI/datathon/assets/126121645/f0cbb29e-b070-4451-8b81-35767204d371)
