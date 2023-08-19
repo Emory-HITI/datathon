@@ -15,9 +15,9 @@ Please find your usernames below:
 | - | - |
 | Benjamin Fargnoli | Fargnoli |
 | Lynne Simpson | Simpson |
-| Lama Moukheiber | LMoukheiber |
 | Megha M Moncy | Moncy |
 | Seyedeh Somayyeh Mousavi | Mousavi |
 | Ramon Luis Correa-Medero | Medero |
 | Lucas McCullum | McCullum |
-
+| David Restrepo | Restrepo |
+| Mira Moukheiber | MMoukheiber |
