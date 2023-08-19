@@ -2,7 +2,7 @@
 
 Welcome to the Emory Health AI Bias Datathon!
 
-**Overview:**
+**Overview:**<br/>
 Please find your server assignments by team below. .yml files have been provided to set up GPU accelerated environments for both Tensorflow and Pytorch. You can test whether your environment is correctly configured with:
 
 **Tensorflow:**
@@ -14,6 +14,7 @@ python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU')
 ```
 python -c "import torch; print(torch.cuda.is_available();"
 ```
+**Server/Room Assignments:**
 | **Team** | **Dataset** | **Server** | **Room** | **Project Statement** |
 | - | - | - | - | - |
 | 1 | MRKR #1 | jhub9.datathon.org | 169 | Validating the ALP score for Osteoarthritis assessment. |
