@@ -22,6 +22,8 @@ To get start with the data in your own notebook, follow the steps below.
 
 ***Step 1:*** 
 
+Remember this is not mandetory. You should only do this if you have AWS access. If not, then proceed to Step 2.
+
 Configure your AWS with JupyterHub: 
 
 Now it’s time to configure your JupyterHub with the AWS console where the files are stored. 
@@ -42,7 +44,7 @@ Then it will ask for the Default region name which you should give as- “us-eas
 
 Load your data tables or the database in your JupyterHub: 
 
-The .parquet files are located in your JupyterHub. Once you log in to the JupyterHub, you should open a termina. Write this commands. 
+The .parquet files are located in your JupyterHub. Once you log in to the JupyterHub, you should open a terminal. Write this commands. 
 
 	cd .. 
 
