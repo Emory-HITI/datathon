@@ -15,9 +15,9 @@ Please find your usernames below:
 | - | - |
 | Sadia Afreen | Afreen |
 | Amy Valdez Barker | Barker |
-| Xiao Hu | Hu |
-| Sharon Sonenblum | Sonenblum |
 | Joshua Volin | Volin |
 | Bolin Song | BSong |
 | Po-Chih Kuo | Kuo |
 | jack gallifant | Gallifant |
+| Francis Tuluri | Tuluri |
+| Juan Luis Santana Guerrero | Guerrero |
