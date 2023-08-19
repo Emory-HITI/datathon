@@ -13,7 +13,8 @@ conda env create -f <env-config-file>.yml
 conda activate <env-name>
 python -m ipykernel install --name=<env-name> --user
 ```
-Note: Without the --user flag this command will fail
+After running the above commands refresh your browser window.  
+*Note: Without the --user flag this command will fail*
 
 **Tensorflow:**
 ```
