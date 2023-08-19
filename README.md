@@ -2,7 +2,7 @@
 
 Welcome to the Emory Health AI Bias Datathon!
 **Overview:**
-Please find your server assignments by team below.
+Please find your server assignments by team below. .yml files have been provided to set up GPU accelerated environments for both Tensorflow and Pytorch.
 
 | **Team** | **Dataset** | **Server** |
 | - | - | - |
