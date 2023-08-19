@@ -7,6 +7,14 @@ Please find your server assignments by team below. The schedule for the weekend 
 
 .yml files have been provided to set up GPU accelerated environments for either Tensorflow or Pytorch. You can test whether your environment is correctly configured with:
 
+**To install the environment and add the kernel to Jupyterhub**
+```
+conda env create -f <env-config-file>.yml
+conda activate <env-name>
+python -m ipykernel install --name=<env-name> --user
+```
+Note: Without the --user flag this command will fail
+
 **Tensorflow:**
 ```
 python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
