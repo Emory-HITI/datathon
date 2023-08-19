@@ -21,3 +21,4 @@ Please find your usernames below:
 | Rolanda Julius | Julius |
 | Chad Robichaux | Robichaux |
 | João Matos | Matos |
+| Sharon Sonenblum | Sonenblum |
