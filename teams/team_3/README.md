@@ -20,3 +20,4 @@ Please find your usernames below:
 | Seza Apiliogullari | Apiliogullari |
 | Edith Wakida | Wakida |
 | Jiwoong Jeong | Jeong |
+| Kamal Hammouda | Hammouda |
