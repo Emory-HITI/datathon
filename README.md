@@ -3,7 +3,9 @@
 Welcome to the Emory Health AI Bias Datathon!
 
 **Overview:**<br/>
-Please find your server assignments by team below. The schedule for the weekend is available [on our website](https://emory.healthdatathon.com) .yml files have been provided to set up GPU accelerated environments for both Tensorflow and Pytorch. You can test whether your environment is correctly configured with:
+Please find your server assignments by team below. The schedule for the weekend is available [on our website](https://emory.healthdatathon.com). 
+
+.yml files have been provided to set up GPU accelerated environments for either Tensorflow or Pytorch. You can test whether your environment is correctly configured with:
 
 **Tensorflow:**
 ```
