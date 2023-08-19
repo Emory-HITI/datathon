@@ -1,0 +1,18 @@
+name: tf_2.5
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python=3.8
+    - pip
+    - cudatoolkit=11.2
+    - conda-forge::cudnn=8.1.0
+    - ipykernel
+    - pip:
+        - tensorflow==2.5.2
+        - numpy
+        - matplotlib
+        - tableone
+        - tqdm
+        - pandas
+    
