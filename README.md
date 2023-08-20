@@ -39,6 +39,6 @@ python -c "import torch; print(torch.cuda.is_available();"
 | 13 | ChatGPT | jhub12.datathon.org | 130 | Red Teaming to test the performance of large language models (ChatGPT for health). |
 
 <br/>**Room Assignment Maps:**<br/>
-[Floor 1 Room Assignments Sunday Revised.pdf](https://github.com/Emory-HITI/datathon/files/12388258/Floor.1.Room.Assignments.Sunday.Revised.pdf)
-[Second Floor Assignments Sunday Revised.pdf](https://github.com/Emory-HITI/datathon/files/12388259/Second.Floor.Assignments.Sunday.Revised.pdf)
-[Third Floor Assignments Sunday Revised.pdf](https://github.com/Emory-HITI/datathon/files/12388260/Third.Floor.Assignments.Sunday.Revised.pdf)
+<img width="505" alt="Screenshot 2023-08-20 at 9 21 05 AM" src="https://github.com/Emory-HITI/datathon/assets/126121645/d37a092a-c905-4f94-99ac-d90d99f60e6a">
+<img width="464" alt="Screenshot 2023-08-20 at 9 22 00 AM" src="https://github.com/Emory-HITI/datathon/assets/126121645/415ca0b3-71c3-41f0-b173-3297038e8bd7">
+<img width="504" alt="Screenshot 2023-08-20 at 9 22 32 AM" src="https://github.com/Emory-HITI/datathon/assets/126121645/41a60907-03ff-422a-bd1d-5747d06fd7a5">
