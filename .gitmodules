@@ -1,0 +1,3 @@
+[submodule "teams/team_2/teams/team_2/kaggle_rsna_breast_cancer"]
+	path = teams/team_2/teams/team_2/kaggle_rsna_breast_cancer
+	url = https://github.com/dangnh0611/kaggle_rsna_breast_cancer.git
