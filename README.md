@@ -4,6 +4,8 @@ Welcome to the Emory Health AI Bias Datathon!
 
 # **Please have one member of each of your teams open the [team evaluation form here.](https://forms.office.com/Pages/ResponsePage.aspx?id=nPsE4KSwT0K80DImBtXfOCuduPPkuDJFhKO839_BDgpUQzZWRVNFMFVYT1NTVUVYUVJUWjQ0SEg5Ny4u)**
 
+# **You can find the summary slides from each team's presentations [at this link](https://docs.google.com/presentation/d/1wFimja2lTWJeXpqMeW7ztOD43lgzhDBCY8iFGIZg5aI/edit?usp=sharing)**
+
 **Overview:**<br/>
 Please find your server assignments by team below. The schedule for the weekend is available [on our website](https://emory.healthdatathon.com). 
 
